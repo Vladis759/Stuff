@@ -1,2 +1,6 @@
 Sample_text
+<<<<<<< HEAD
 And another one Sample_text
+=======
+Another Sample_text
+>>>>>>> 34d351aff75aa7b61044945723cbef1b399cfedd
